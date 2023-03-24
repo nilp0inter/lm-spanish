@@ -1,0 +1,6 @@
+evaluation/evaluate/logs
+evaluation/evaluate/env
+evaluation/evaluate/output
+evaluation/evaluate/models
+evaluation/evaluate/cache
+.direnv
